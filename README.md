@@ -1,6 +1,3 @@
-For a GitHub README.md file tailored to your Hyperledger Fabric chaincode (smart contract) in Go that implements a simple key-value store, consider this template. It is structured to introduce the chaincode, guide users through its setup and deployment, and explain how to interact with it. Additionally, it includes sections for prerequisites, installation, usage, contributing, licensing, and acknowledgments:
-
-```markdown
 # Simple Key-Value Store Chaincode for Hyperledger Fabric
 
 This repository contains a simple chaincode (smart contract) written in Go for Hyperledger Fabric. It implements a basic key-value store, allowing users to set and retrieve values associated with specific keys. This example serves as a foundational piece for understanding how to develop and deploy chaincodes in a Hyperledger Fabric network.
