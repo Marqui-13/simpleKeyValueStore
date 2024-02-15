@@ -12,13 +12,13 @@ This repository contains a simple chaincode (smart contract) written in Go for H
 1. Clone this repository into the `src` folder of your `$GOPATH` to ensure it is properly recognized by Go:
 
 
-git clone https://github.com/Marqui-13/simple-key-value-chaincode.git $GOPATH/src/simple-key-value-chaincode
+git clone https://github.com/Marqui-13/simpleKeyValueStore.git $GOPATH/src/simpleKeyValueStore
 
 
 2. Navigate to the cloned repository directory:
 
 
-cd $GOPATH/src/simple-key-value-chaincode
+cd $GOPATH/src/simpleKeyValueStore
 
 
 ## Deployment
